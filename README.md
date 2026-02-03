@@ -2,6 +2,17 @@
 
 Designed and built an autonomous maze navigating robot using Solidworks, Fusion 360, 3D printing for the robot chassis and C++ code on Arduino Nano for preset and autonomous navigation of a maze.
 
+Videos of the robot can be seen in the repo.
+
+Foward 15cm\
+https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/15CM-FORWARD.mp4
+
+Preset Movement\
+https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/Preset-Nav.mp4
+
+Autonomous Maze Navigation\
+https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/Full-Maze-NAV.mp4
+
 Picture of the robot:
 ![Maze Nav Bot](https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/MazeNavBot.jpg)
 
@@ -9,7 +20,7 @@ Picture of the maze:
 ![Perspex Maze](https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/Perspex%20Maze.jpg)
 
 
-Problems Experienced
+### Issues Experienced
 
 Issue 1: Motors would whine trying to reach a desired distance and never reach it.\
 Solution 1: Calibrate a motor deadzone that ensures the motor stops when desired distance is reached
