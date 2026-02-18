@@ -20,7 +20,7 @@ Picture of the maze:
 ![Perspex Maze](https://github.com/RandomRunt/MTRN3100-Maze-Navigator/blob/main/Perspex%20Maze.jpg)
 
 
-### Issues Experienced
+### Solutions to Issues Experienced 
 
 Issue 1: Motors would whine trying to reach a desired distance and never reach it.\
 Solution 1: Calibrate a motor deadzone that ensures the motor stops when desired distance is reached
