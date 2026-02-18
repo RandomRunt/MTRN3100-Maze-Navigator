@@ -1,6 +1,6 @@
 # MTRN3100-Maze-Navigator
 
-Designed and built an autonomous maze navigating robot using Solidworks, Fusion 360, 3D printing for the robot chassis and C++ code on Arduino Nano for preset and autonomous navigation of a maze.
+Designed and built an autonomous maze navigating robot using Solidworks, Fusion 360, FDM 3D Printing for the robot chassis and C++ code on Arduino Nano for preset and autonomous navigation of a maze.
 
 Videos of the robot can be seen in the repo.
 
